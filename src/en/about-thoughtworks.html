@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>DDD China Conference</title>
+    <link rel="stylesheet" href="../css/main.css">
+    <script type="text/javascript" src="../lib/jquery-3.2.1.min.js"></script>
+    <link rel="icon" href="../resource/favicon.ico">
+</head>
+<style>
+    .about-thoughtworks-container {
+        margin: 0 auto;
+        padding: 60px 10%;
+    }
+
+    .about-thoughtworks-container .title {
+        font-size: 28px;
+        line-height: 46px;
+        padding: 10px 0;
+        color: #333;
+        border-bottom: 1px solid #ccc;
+    }
+
+    .about-thoughtworks-container .wrapper {
+        display: flex;
+        margin: 20px 0 40px;
+    }
+
+    .about-thoughtworks-container .logo {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .about-thoughtworks-container .logo>img {
+        width: 300px;
+    }
+
+
+    .about-thoughtworks-container .images {
+        width: 100%;
+        display: inline-grid;
+        grid-template-columns: repeat(3, 33.3%);
+        grid-template-rows: repeat(1, 100%);
+        grid-gap: 4px;
+        align-items: center;
+        /* justify-items: center; */
+    }
+
+    .about-thoughtworks-container .images>div:nth-child(1) {
+        width: 100%;
+        background: url('../resource/tw1.jpg') no-repeat;
+        background-size: contain;
+        height: 260px;
+        /* vertical-align: middle; */
+    }
+
+    .about-thoughtworks-container .images>div:nth-child(2) {
+        width: 100%;
+        background: url('../resource/tw2.jpg') no-repeat;
+        background-size: contain;
+        height: 260px;
+        /* vertical-align: middle; */
+    }
+
+    .about-thoughtworks-container .images>div:nth-child(3) {
+        width: 100%;
+        background: url('../resource/tw3.jpg') no-repeat;
+        background-size: 131%;
+        background-position-x: 20%;
+        height: 260px;
+        /* vertical-align: middle; */
+    }
+</style>
+
+</style>
+
+<body>
+    @@include('../includes/en/navigation-header.html')
+
+    <div class="main-container">
+        <div class="grid-wrapper">
+            <div class="hero-banner">
+                <img src="../resource/Banner-1220-463.png" alt="Topic pic">
+            </div>
+        </div>
+        <div class="about-thoughtworks-container">
+            <div class="title">About ThoughtWorks</div>
+            <div class="wrapper">
+                <div class="text">
+                    <p>ThoughtWorks is a leading global software and consulting company with 40 offices in 14 countries
+                        and over 6,000 industry elites serving global high-end customers through global resource sharing
+                        and talent exchange.
+                    </p>
+                    <p>
+                        ThoughtWorks' business model is to achieve end-to-end digital services through strategic
+                        positioning, IT consulting, product design and software delivery, helping digital companies in
+                        the global financial, technology, manufacturing, retail and other industries to achieve digital
+                        transformation, the evolution of main corporate organization and technology architecture, and
+                        establish a digital strategic direction and enhance the digital capabilities of enterprises.
+
+                    </p>
+                    <p>
+                        In China, ThoughtWorks has established six offices in Beijing, Xi'an, Chengdu, Wuhan, Shanghai
+                        and Shenzhen to provide world-class professional services to various enterprises, government
+                        departments and non-profit organizations. Using globally aligned consulting methods and
+                        technical capabilities, coupled with localized, customized service offerings, ThoughtWorks China
+                        serves local, forward-looking, high-end companies in the financial, insurance, communications,
+                        transportation and travel industries. Leading in the agile wave, they have helped a number of
+                        companies to optimize and transform their IT organizations, greatly improving the efficiency and
+                        creativity of their organizations.
+
+                    </p>
+                    <p>
+                        Based on China's high-quality human resources, ThoughtWorks China has built a world-class
+                        software delivery center to provide high-end IT knowledge process outsourcing services to
+                        leading companies in various industries around the world. In Beijing, Xi'an and Chengdu,
+                        ThoughtWorks' software delivery center works in close cooperation with well-known foreign
+                        companies to solve problems with customer IT teams, deliver high-quality IT systems that are
+                        critical to the business, and help customers innovate and improve.
+                    </p>
+                </div>
+                <div class="logo">
+                    <img src="../resource/sponsors/thoughtworks.png" alt="">
+                </div>
+            </div>
+            <div class="images">
+                <div></div>
+                <div></div>
+                <div></div>
+            </div>
+            <div style="margin-top:60px">
+                <p class="title">Original Intention of DDD China Conference</p>
+                <p class="text">
+                    The DDD Conference was initiated by the architecture consultants of ThoughtWorks, a leader in
+                    domestic domain-driven design (DDD) thinking and practice. Hoping to provide a platform for
+                    domain-driven design (DDD) practitioners, in which they can interact and share successful
+                    experiences of their teams to each other, and enable Domain-Driven Design (DDD) architectural ideas
+                    to be recognized by more people in the country, which enlarges the scale of Domain-Driven Design
+                    (DDD) practices.
+                </p>
+            </div>
+            <div>
+                <img style="width: 100%;margin-top: 40px" src="../resource/banner-bottom.png" alt="">
+            </div>
+        </div>
+        @@include('../includes/en/footer-additional.html')
+    </div>
+</body>
+
+<script type="text/javascript" src="../js/main.js"></script>
+<script type="text/javascript">
+    focusOn(NAV_ITEMS.ABOUT_THOUGHTWORKS, LANGUAGE.ZH)
+</script>
+
+</html>

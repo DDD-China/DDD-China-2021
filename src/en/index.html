@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>DDD China Conference</title>
+    <link rel="stylesheet" href="../css/main.en.css">
+    <script type="text/javascript" src="../lib/jquery-3.2.1.min.js"></script>
+    <link rel="icon" href="../resource/favicon.ico">
+</head>
+
+<body>
+
+    @@include('../includes/en/navigation-header.html')
+
+    <div class="main-container color-text-gray">
+        <div class="grid-wrapper">
+            <div class="grid centered">
+                <div class="grid-cell top-banner">
+                    <div class="block">
+                        <a class="button color-black color-text-white color-border-white"
+                           href="https://app.ma.scrmtech.com/meetings/MeetingPc/Detail?pf_uid=7019_1254&id=26124&source=2&pf_type=3&channel_id=776&channel_name=official-web&tag_id=5692b1aab6f7a79f">
+                            Sign Up Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="grid-wrapper grid-space">
+            <div class="grid centered">
+                <div class="conf-date-location">
+                    <p class="title">The Premier Software Modelling & Design Conference</p>
+                    <div class="flexbox-row">
+                        <div class="flexbox-item">
+                            <div class="icon"><img src="../resource/calendar.png" alt=""></div>
+                            <div class="word">December 19, 2020</div>
+                        </div>
+                        <div class="flexbox-item">
+                            <div class="icon"><img src="../resource/location.png" alt=""></div>
+                            <div class="word">Live Streaming</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="grid-wrapper grid-space grid-grey" id="conf-introduction">
+            <div class="grid centered">
+                @@include('../includes/en/conf-introduction-part.html')
+            </div>
+        </div>
+
+        <div class="grid-wrapper grid-space content-container" id="agenda">
+            @@include('../includes/en/agenda.html')
+        </div>
+
+        <div class="grid-wrapper grid-space grid-grey" id="topic-europe">
+            @@include('../includes/en/topic-europe.html')
+        </div>
+
+
+        <div class="grid-wrapper grid-space content-container" id="partners">
+            @@include('../includes/en/partners.html')
+        </div>
+
+
+
+        @@include('../includes/en/footer-additional.html')
+    </div>
+</body>
+
+<script type="text/javascript" src="../js/main.js"></script>
+<script type="text/javascript">
+    focusOn(NAV_ITEMS.CONFERENCE, LANGUAGE.ZH)
+    changeBannerSize()
+</script>
+
+
+</html>
