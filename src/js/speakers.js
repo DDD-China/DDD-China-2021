@@ -13,12 +13,18 @@ $(function() {
     speakers[id][0]["producer-information"]
   );
 
-  $(".topic-item-1 .speaker-info .speaker-topic .speaker-topic-content").append(
-    speakers[id][0]["producer-topic"]
-  );
-  $(
-    ".topic-item-1 .speaker-info .speaker-topic-detail .speaker-topic-content-detail"
-  ).append(speakers[id][0]["topic-information"]);
+  if (!speakers[id][0].noTopic) {
+    $(".topic-item-1 .speaker-info .speaker-topic .speaker-topic-content").append(
+      speakers[id][0]["producer-topic"]
+    );
+    $(
+      ".topic-item-1 .speaker-info .speaker-topic-detail .speaker-topic-content-detail"
+    ).append(speakers[id][0]["topic-information"]);
+  } else {
+    $(".speaker-topic").hide();
+    $(".speaker-topic-detail").hide();
+    $(".speaker-topic-import-icon").hide();
+  }
 
   if (!speakers[id][1].noTopic) {
     $(

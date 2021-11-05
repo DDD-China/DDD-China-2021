@@ -1,17 +1,76 @@
 var speakers = [
   [
     {
-      "producer-img": "../resource/speakers/zhangyi.png",
+      "producer-img": "../resource/speakers/2021/1-肖然.jpg",
+      "producer-name": "肖然",
+      "producer-introduction": "中国敏捷教练(CAC)企业联盟秘书长，DDDChina及China Agile Coach联合发起人",
+      "producer-information":
+        "中国敏捷教练企业联盟秘书长，Thoughtworks全球数字化转型专家，国内第一批敏捷精益教练。长期为金融、保险、通信、物流、零售等核心产业的头部企业提供从战略执行到组织运营各个方面的咨询服务，是华为、招行、工行、中行等企业大学在科技创新和设计思维方面首席讲师，也是《深入核心的敏捷开发》、《代码管理核心技术及实践》、《人件》、《增强人类》等多本著作的作者及译者，Open ROADS全球数字化转型社区咨询委员会（advisory board）成员。",
+      "producer-topic": "《逆康威定律工作坊》",
+      "topic-information":
+        "康威定律马上迎来55周年之际，软件已经成为了我们数字化世界的底座，大规模的软件研发团队成为了很多组织管理的日常。面向云原生时代，DDD帮助我们理解了如何进行有效的领域划分，很多团队尝试以此来指导团队架构。本次工作坊我们将在领域的基础上进一步引入新的团队结构思考，从Team First的角度来设计团队的演进，从而能够逆康威定律，实现大型软件系统的持续演进。"
+    },
+    {
+      noTopic: true,
+      "producer-information": "...",
+      "producer-topic": "...",
+      "topic-information": "..."
+    }
+  ],
+
+  [
+    {
+      "producer-img": "../resource/speakers/2021/2-王威.jpg",
+      "producer-name": "王威",
+      "producer-introduction": "Thoughtworks数字化转型首席顾问，数字技术战略服务负责人和企业架构师",
+      "producer-information":
+        "ThoughtWorks数字化转型首席顾问、数字技术战略服务负责人和企业架构师。王威曾先后为国内外金融、电信等行业的全球领军企业提供数字化转型服务，尤其关注在通过引入数字技术战略，实现企业技术能力的现代化和数字化。王威作为领域驱动设计（DDD）的实践者，是国内最早的事件风暴（Event Storming）的实践者、倡导者。2017年，王威作为联合创始人主导创建了领域驱动设计中国社区和领域驱动设计中国峰会（http://ddd-china.com/），持续在向国内技术社区推广DDD的实践。",
+        noTopic: true,
+    },
+    {
+      noTopic: true,
+      "producer-information": "...",
+      "producer-topic": "...",
+      "topic-information": "..."
+    }
+  ],
+
+
+  [
+    {
+      "producer-img": "../resource/speakers/2021/3-张逸.jpg",
       "producer-name": "张逸",
-      "producer-introduction": "民航信息技术总监",
+      "producer-introduction": "领域驱动设计专家，系统架构师《解构领域驱动设计》作者",
       "producer-information":
-        "《解构领域驱动设计》作者，热衷于编程语言学习与技艺提升，致力于将企业架构、精益需求管理、领域驱动设计与微服务架构完美结合，打造面向企业的业务中台；致力于将数据仓库、实时流处理、机器学习与高性能存储完美结合，打造面向行业的智能数据中台。",
-      "producer-topic": "领域驱动设计大揭秘",
+        "高质量编码实践者，领域驱动设计布道师，微服务系统架构师，大数据平台架构师，敏捷转型咨询师。热衷于编程语言学习与技艺提升，致力于将企业架构、精益需求管理、领域驱动设计与微服务架构完美结合，打造面向企业的业务中台；致力于将数据仓库、实时流处理、机器学习与高性能存储完美结合，打造面向行业的智能数据中台。著译作包括《解构领域驱动设计》、《软件设计精要与模式》、《架构宝典》、《高可用可伸缩微服务架构》、《Java设计模式》、《恰如其分的软件架构》、《WCF服务编程》、《人件》、《重构——改善既有代码设计》评注版、《架构之美》评注版。",
+      "producer-topic": "领域驱动设计的演进架构风格",
       "topic-information":
-        "领域驱动设计与数据驱动设计有何区别，领域驱动设计究竟改变了软件设计的哪些内容？\
-        * 领域驱动设计的最初十年为何少人问津，到如今却能蒸蒸日上进入它的黄金时代？\
-        * 在领域驱动设计的指导下，单体架构还是邪恶的吗？它与微服务架构差异究竟在哪里？\
-        * 领域驱动设计存在哪些天生不足，我为何要提出领域驱动设计统一过程？揭秘领域驱动设计的诸多疑问，彰显领域驱动设计之美！"
+        "领域驱动设计的核心要素在于它提倡的核心驱动力，驱动着我们在架构设计时围绕领域对业务能力给予重要关注，并在系统上下文的边界内，建立由限界上下文为自治要素构成的系统架构，这一架构设计方法有效地解决了软件系统由规模、结构与变化形成的高复杂度，建立了一种由领域驱动的演进式架构风格。"
+    },
+    {
+      noTopic: true,
+      "producer-information": "...",
+      "producer-topic": "...",
+      "topic-information": "..."
+    }
+  ],
+
+
+  [
+    {
+      "producer-img": "../resource/speakers/2021/4-林宁.jpg",
+      "producer-name": "林宁",
+      "producer-introduction": "Thoughtworks Tech Lead，首席咨询师",
+      "producer-information":
+        "Thoughtworks Tech Lead、首席咨询师。专注于 Java 分布式系统和中间件的开发、领域驱动设计（DDD）的咨询工作。服务过国内外通信、保险、银行、餐饮等行业的企业，为国内知名企业提供过 DDD 咨询服务，参与过 30 次以上的建模工作坊。ThoughtWorks 内部 DDD 社区发起人，维护有公众账号\"DDD和微服务\"。",
+      "producer-topic": "深入DDD：主客体建模法",
+      "topic-information":
+        `对现实理解越深刻，软件开发越简单。本次分享通过哲学认识论的 "主客体思维" 为底层逻辑，拔高对 DDD 的认知，获得建模和架构方法体系。解决包括不当“充血”、上下文划分、多对多关系、“千层饼”架构、团队拓扑等问题。
+        内容大纲：
+        1. 用主客体重新理解 DDD 
+        2. 建模方法元模型，理解和设计一种建模过程
+        3. 用主客体定义分层架构
+        4. 用责任主体重塑团队`
     },
     {
       noTopic: true,
@@ -23,16 +82,14 @@ var speakers = [
 
   [
     {
-    "producer-img": "../resource/speakers/ouchuangxin.png",
-    "producer-name": "欧创新",
-    "producer-introduction": "资深架构师",
-    "producer-information":
-      "《中台架构与实现：基于DDD和微服务》作者，极客时间《DDD实战课》专栏作者，热衷于基于DDD的中台和分布式微服务架构设计与方法论研究。",
-    "producer-topic": "当中台遇上DDD，如何设计微服务？",
-    "topic-information":
-      "* 中台、DDD和微服务起源不同，时代不同。方法论的融合首要在于建立通用语言。如何建立DDD、中台和微服务的统一语言？如何将三者融合完成协同设计？\
-       * DDD核心知识体系和完整设计过程是什么样的？如何用DDD指导完成中台领域边界划分和微服务设计？\
-       * 企业业务的快速发展必然会导致领域模型的不断变化和微服务的架构演进。如何用最小的代价完成领域模型与微服务的架构演进？如何设计出边界清晰的微服务而不是分布式小单体？"
+      "producer-img": "../resource/speakers/2021/5-范钢.jpg",
+      "producer-name": "范钢",
+      "producer-introduction": "《架构真意》《大话重构》作者，前航天信息首席架构师",
+      "producer-information":
+        "奈学教育DDD金牌讲师，畅销书籍《架构真意》与《大话重构》的作者，规模化敏捷SPC。先后参与了数十个国内大型软件项目，涉及国家财政、军工、税务、医疗等领域的大数据建设、风险防控与人工智能研究。从事架构设计、软件重构、微服务、大数据方面的培训与咨询多年，服务的客户包括中国银行、华为、中兴、贝尔、西门子，也是Top100、Tid、SDCC、DDD、DevOps等业界顶级技术峰会的技术分享者。",
+      "producer-topic": "落地DDD的技术中台建设及其实践",
+      "topic-information":
+        "现如今，越来越多的团队期望通过实践DDD，解决微服务开发中的诸多难题，DDD越来越火。然而，在实践DDD的过程中，如何有效地将领域模型转换为设计编码，完成系统建设，又会遇到很多难题需要解决。为此，我将从架构的角度讲解，如何构建一个技术中台，简化代码，让开发人员更专注于领域建模与业务编码，促进DDD在项目中的真正落地。"
     },
     {
       noTopic: true,
@@ -44,18 +101,12 @@ var speakers = [
 
   [
     {
-    "producer-img": "../resource/speakers/yujing.png",
-    "producer-name": "于静",
-    "producer-introduction": "IBM资深应用架构师",
-    "producer-information":
-      "多年从事企业级应用开发、架构设计工作。在大型遗留系统现代化改造、领域驱动设计、微服务、云原生系统设计等方面经验丰富。",
-    "producer-topic": "领域驱动设计在大型遗留系统改造中的实践",
-    "topic-information":
-      "自领域驱动设计和微服务概念提出至今，越来越多的互联网巨头以及传统行业都开始对自己的遗留系统进行微服务改造，通过把系统拆分为更加灵活、有业务边界上下文、松耦合的服务来应对快速变化的市场。本主题演讲将通过实际案例带您复盘一个有着二十年历史并支撑百万交易额的电商平台如何通过领域驱动设计的方法华丽转身。主要内容包括：\
-      * 遗留系统重构的难点 \
-      * 领域驱动设计引领遗留系统的微服务改造 \
-      * 微服务系统架构设计及改造结果 \
-      * 改造过程中的心得体会及踩过的坑"
+      "producer-img": "../resource/speakers/2021/6-张晔.jpg",
+      "producer-name": "张晔",
+      "producer-introduction": "腾讯工程效能教练，资深DevOps顾问",
+      "producer-information":
+        "7年企业级教练经验，2年技术咨询经验。擅长组织级DevOps提升、敏捷转型、领域建模、极限编程、质量内建等。从2014年开始实践领域驱动设计，辅导过多个团队和产品落地领域驱动设计方法。",
+        noTopic: true,
     },
     {
       noTopic: true,
@@ -67,548 +118,140 @@ var speakers = [
 
   [
     {
-    "producer-img": "../resource/speakers/yangyun.png",
-    "producer-name": "杨云",
-    "producer-introduction": "ThoughtWorks总监级咨询师",
-    "producer-information":
-      "二十余年软件开发行业经验，在互联网、企业应用软件、咨询行业都有多年的深耕。指导过多个DDD实施项目的落地。近年来致力于研究如何能使DDD建模在大规模开发团队的情况下确实的落地到代码层面。  此外，他还是函数式编程的宣导者。",
-    "producer-topic": "DDD从战略设计到代码落地的三阶段方法",
-    "topic-information":
-      "1、当前常用的事件风暴建模方法和代码实际落地之间的空隙 \
-      2、用名词动词法为领域关键概念和行为建立结构层面的模型 \
-      3、用类型流方法为具体行为的内部逻辑建立微观层面（详设级别）的模型"
-    },
-    {
-      noTopic: true,
-      "producer-information": "...",
-      "producer-topic": "...",
-      "topic-information": "..."
-    }
-  ],
-
-  [
-    {
-    "producer-img": "../resource/speakers/indualagarsamy.png",
-    "producer-name": "Indu Alagarsamy",
-    "producer-introduction": "Unisys 首席应用架构师，全球DDD社区领袖",
-    "producer-information":
-      "在软件行业有超过15年的从业经验。她与客户紧密合作，帮助他们在遗留系统现代化的过程中，消除业务摩擦。Indu还对科技行业的多样性和包容性充满热情。",
-    "producer-topic": "DDD实战：限界上下文+事件 -> 微服务",
-    "topic-information":
-      "领域驱动设计和消息传递相辅相成，就像热乎乎的巧克力布朗尼和香草冰淇淋相搭配一样！ DDD这门软件学科，不仅可以助你身手敏捷地编写高质量的代码，还能使所编写的软件能灵活应对业务变化。 当使用消息传递技术在清晰整洁和定义良好的限界上下文之间进行通信时，就可以消除时序上的耦合。 一开始就能构建可以自治的微服务，这听起来很棒对吧？\
-      在本次演讲中，我们会让作为软件学科的DDD，与作为软件技术的消息传递相聚在一起，以构建可以随着业务变化而扩展的可靠系统。"
-    },
-    {
-      noTopic: true,
-      "producer-information": "...",
-      "producer-topic": "...",
-      "topic-information": "..."
-    }
-  ],
-
-  [
-    {
-    "producer-img": "../resource/speakers/nealford.png",
-    "producer-name": "Neal Ford",
-    "producer-introduction": "ThoughtWorks 全球技术总监、软件架构师",
-    "producer-information":
-      "国际公认的软件开发和交付方面的专家，尤其是在敏捷工程技术和软件体系结构的交集方面。 撰写过杂志文章，八本书（仍在增加），数十个视频展示，并在全球数百个开发者大会上发表过演讲。",
-    "producer-topic": "构建演进式架构",
-    "topic-information":
-      "在过去十年中，DDD的限界上下文概念影响了软件架构，并启发Neal Ford产生了《演进式架构》书中的一些思想。 在本话题中，该书作者Neal Ford将讨论有关可演进架构的两个关键洞察，以及DDD如何启发他产生了软件架构的量子概念。"
-    },
-    {
-      noTopic: true,
-      "producer-information": "...",
-      "producer-topic": "...",
-      "topic-information": "..."
-    }
-  ],
-
-  [
-    {
-      "producer-img": "../resource/speakers/huhao.png",
-      "producer-name": "胡皓",
-      "producer-introduction": "ThoughtWorks 高级咨询师",
-      "producer-information":
-        "擅长于全栈软件开发、端到端交付、面向对象设计、测试驱动开发、持续集成/持续交付，领域驱动设计、整洁架构、微服务、DevOps、Scrum、Kanban以及其他的技术和方法论。当前，正深耕于领域驱动设计、微服务、中台战略，并致力于帮助ThoughtWorks的客户实现数字化转型",
-      "producer-topic": "实战化领域驱动设计工作坊",
-      "topic-information":
-        "“实战化领域驱动设计工作坊”基于ThoughtWorks所总结的“基准化”方法，从一个沙盘业务场景出发，通过问题澄清、业务抽象、统一语言、问题域划分、领域建模，由一线咨询师带您一步步体验从DDD战略设计到战术设计再到指导技术实现的全流程。"
-    },
-    {
-      noTopic: true,
-      "producer-information": "...",
-      "producer-topic": "...",
-      "topic-information": "..."
-    }
-  ],
-  [
-    {
-      "producer-img": "../resource/speakers/wangyan.png",
-      "producer-name": "王岩",
-      "producer-introduction": "ThoughtWorks 高级咨询师",
-      "producer-information":
-        "先后从事全栈开发工程师、技术经理、顾问等工作。在技术领域，专注于测试驱动开发、持续集成/持续交付，领域驱动设计，整洁架构，微服务，Devops 等方向。最近一年，主要服务于保险行业，专注于大型遗留项目的拆分。",
-      "producer-topic": "实战化领域驱动设计工作坊",
-      "topic-information":
-        "“实战化领域驱动设计工作坊”基于ThoughtWorks所总结的“基准化”方法，从一个沙盘业务场景出发，通过问题澄清、业务抽象、统一语言、问题域划分、领域建模，由一线咨询师带您一步步体验从DDD战略设计到战术设计再到指导技术实现的全流程。"
-    },
-    {
-      noTopic: true,
-      "producer-information": "...",
-      "producer-topic": "...",
-      "topic-information": "..."
-    }
-  ],
-
-  [
-    {
-      "producer-img": "../resource/speakers/kangjiangmei.png",
-      "producer-name": "亢江妹",
-      "producer-introduction": "ThoughtWorks精益产品创新咨询师、首席商业分析师",
-      "producer-information":
-        "十八年从业经验，在敏捷/精益产品需求分析、大企业需求管理、行业研究等方面，有丰富的实战和教练经验；她也是业务分析师(IIBA)、产品经理的活跃参与者，是DnA(Design and Analysis)社区、ThoughtWorks中国行业研究社区的发起人，也是ThoughtWorks商业洞见的主编。",
-      "producer-topic": "中台规划的七种武器",
-      "topic-information":
-        "在中台从规划到落地的过程中，需要不停闯关：中台到底解决什么问题，是承载业务战略还是战术，该如何定位？如何让中台的目标能够上下对齐？业务设计应涉及多大范围，如何做？前有变化的业务系统，后有各种遗留系统，如何应对架构复杂性？需求该如何管理？切入点和落地计划如何能达成共识，以迅速行动？结合实践案例，我们为大家分享中台规划中的“7种武器”。"
-    },
-    {
-      "producer-img": "",
-      "producer-name": "",
-      "producer-introduction": "",
-      "producer-information": "",
-      "producer-topic": "领域驱动的架构演进",
-      "topic-information":
-        "过去的5年中，领域驱动设计在架构设计过程中的重要作用逐渐被业界主流所接受。无论是微服务架构、演进式架构、还是企业IT架构设计、企业中台设计，我们都可能看到领域驱动设计在各个架构设计层面发挥着自己的价值。我们希望通过本论坛的研讨，为听众呈现一场架构设计的盛宴，让大家能全方位的理解领域驱动设计的价值和威力"
-    }
-  ],
-
-  [
-    {
-      "producer-img": "../resource/speakers/wangjian.png",
-      "producer-name": "王健",
-      "producer-introduction": "ThoughtWorks首席咨询师",
-      "producer-information":
-        "一直从事国内外大型企业级软件的设计与开发，保持着对技术的热爱，享受着编码的快乐，热衷于技术分享，阿里云MVP。十年前开始接触DDD，一直在工作中运用与不断学习。近两年关注在应用DDD进行大型企业企业数字中台规划与落地，平台化建设，遗留系统服务化相关工作。",
-      "producer-topic": "中台规划的七种武器",
-      "topic-information":
-        "在中台从规划到落地的过程中，需要不停闯关：中台到底解决什么问题，是承载业务战略还是战术，该如何定位？如何让中台的目标能够上下对齐？业务设计应涉及多大范围，如何做？前有变化的业务系统，后有各种遗留系统，如何应对架构复杂性？需求该如何管理？切入点和落地计划如何能达成共识，以迅速行动？结合实践案例，我们为大家分享中台规划中的“7种武器”。"
-    },
-    {
-      "producer-img": "../resource/speakers/wangjian.png",
-      "producer-name": "王健",
-      "producer-introduction": "",
-      "producer-information": "",
-      "producer-topic": "领域驱动的架构演进",
-      "topic-information":
-        "过去的5年中，领域驱动设计在架构设计过程中的重要作用逐渐被业界主流所接受。无论是微服务架构、演进式架构、还是企业IT架构设计、企业中台设计，我们都可能看到领域驱动设计在各个架构设计层面发挥着自己的价值。我们希望通过本论坛的研讨，为听众呈现一场架构设计的盛宴，让大家能全方位的理解领域驱动设计的价值和威力"
-    }
-  ],
-
-  [
-    {
-      "producer-img": "../resource/speakers/gaoyikai.png",
-      "producer-name": "高翊凯",
-      "producer-introduction": "Amazon Web Services 解决方案架构师",
-      "producer-information":
-        "Kim Kao (高翊凯)目前是DDD Taiwan Community共同发起人之一，同时任职于Amazon Web Services 担任解决方案架构师，一直对于各种软体开发方法论感到兴趣，尤以领域驱动设计为最，在职涯初期就投入了大量的Java EE 应用程序开发，始终对于分散式系统的话题特别留心，并前后担任过程序员、系统分析师、项目经理、软件架构师，以至于解决方案架构师。随著云服务的大规模的发展日盛，过往複杂难解的技术与商务问题能够更好的被解决并提供夜价值，现在正努力的协助客户将既有遗留系统搬迁上云，通过领域驱动设计的辅助以及其他敏捷实践可以带来帮助。",
-      "producer-topic": "微服务背后的见微知著",
-      "topic-information":
-        "微服务的热潮席捲了整个IT产业，不管是哪一种产业都很想要在这样的系统架构中得到好处，然而，事情并没有像想像中的这样简单，在走入微服务前我们经常会碰到一些问题，像是如何拆分系统边界? 或者是拆分后业务价值能真的满足既有需求? 以及拆分后的交易管理议题怎么做? 能否有更为优雅一点的方式来处理? 在这个演讲当中，讲者(Kim Kao)将针对过去两年来实际看到的一些经典问题做了整理，并介绍如何通过AWS的一些重要产品与领域驱动设计思维，帮助大家更好的解决这些困难。"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的架构演进",
-      "topic-information":
-        "过去的5年中，领域驱动设计在架构设计过程中的重要作用逐渐被业界主流所接受。无论是微服务架构、演进式架构、还是企业IT架构设计、企业中台设计，我们都可能看到领域驱动设计在各个架构设计层面发挥着自己的价值。我们希望通过本论坛的研讨，为听众呈现一场架构设计的盛宴，让大家能全方位的理解领域驱动设计的价值和威力"
-    }
-  ],
-
-  [
-    {
-      "producer-img": "../resource/speakers/wangbo.png",
-      "producer-name": "王博",
-      "producer-introduction": "独立软件技术顾问",
-      "producer-information":
-        "软件技术咨询师，全栈程序员。专注于大型系统软件的领域建模设计、重构、持续交付以及服务化、智能化架构演进等领域。曾深度参与无线通讯4G、5G核心系统、自动驾驶、云存储、人工智能对话平台等咨询和创业项目。",
-      "producer-topic": "嵌入式C系统如何重构到领域模型",
-      "topic-information":
-        "嵌入式C系统由于系统约束、语言能力和人员技能等各种原因，大多直接采用面向过程的设计方式，导致代码很难和领域模型建立起清晰的映射关系。为了能在嵌入式C系统中实施领域驱动设计，提高嵌入式C系统的可理解和应对变化的能力，我们给出一套嵌入式C语言的设计和重构方法，以支持领域建模过程。本演讲通过一个实际的案例，讲述嵌入式C系统中实施领域驱动设计的相关经验总结。"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的架构演进",
-      "topic-information":
-        "过去的5年中，领域驱动设计在架构设计过程中的重要作用逐渐被业界主流所接受。无论是微服务架构、演进式架构、还是企业IT架构设计、企业中台设计，我们都可能看到领域驱动设计在各个架构设计层面发挥着自己的价值。我们希望通过本论坛的研讨，为听众呈现一场架构设计的盛宴，让大家能全方位的理解领域驱动设计的价值和威力"
-    }
-  ],
-
-  [
-    {
-      "producer-img": "../resource/speakers/fengwenhui.png",
-      "producer-name": "冯文辉",
-      "producer-introduction": "ThoughtWorks高级咨询师",
-      "producer-information":
-        "现任ThoughtWorks中国区资深架构咨询师。工作期间为多个海外交付项目包括某500强大型跨国外资银行网上银行系统，国际贸易交易担保系统，企业大宗买卖交易担保系统，内部工作流系统，文档管理系统，即时支付系统，社交化银行系统的开发，测试，部署，运维工作。拥有团队全角色经验，熟悉大型复杂IT系统的架构设计。也曾主动和带领公司内的百人移动开发部门的敏捷转型和DevOps能力提升工作。熟悉敏捷，精益等软件开发方法论，熟悉Scrum，Kanban等项目和流程管理方法，熟悉DevOps，对其价值观，原则和套路有深刻的理解，深知IT组织变革的困难与痛点，也总结了其中的经验与教训。熟悉领域驱动设计方法论，曾多次主导客户DDD工作坊，对如何利用DDD进行架构的解耦与演进有独特的洞察与看法。目前正在探讨企业架构与IT战略规划，寻求更好的方法使企业的业务架构，应用架构、数据架构与技术架构保持一致，以及宏观的架构设计如何能正确传导到代码实现，从而使得IT在数字化转型的大潮下能真正成为引领业务发展的引擎。",
-      "producer-topic": "By Experience的三个层次",
-      "topic-information":
-        "By Experience 往往是架构设计的Golden Rule。虽然DDD的方法一直想通过一些原则和套路把架构设计对经验的依赖弱化，但是很难做到完全不依赖经验。相反的是，有时候经验往往更是整个架构中最精髓的一笔。本演讲将以一些DDD实战的例子，从By Experience，By Crystallized Intelligence，By Human阐述三个凭经验的层次，从社会学，到心理学，最后希望从哲学的角度合理解释By Experience的不可避免，却又不可或缺。"
-    },
-    {
-      noTopic: true,
-      "producer-information": "...",
-      "producer-topic": "领域驱动的协作设计",
-      "topic-information":
-        "领域驱动设计的概念和相关实践被社区广泛采纳之后，尤其是事件风暴工作坊的流行，再一次证明了协作设计在软件开发过程中的巨大作用。在本分论坛中，我们希望从不同视角审视协作设计的过程，这种协作设计可能是架构设计，也可能是产品设计、交互设计、代码设计"
-    }
-  ],
-
-  [
-    {
-      "producer-img": "../resource/speakers/dalei.png",
-      "producer-name": "笪磊",
-      "producer-introduction": "ThoughtWorks数字化转型顾问",
-      "producer-information":
-        "ThoughtWorks数字化转型顾问、工程与项目管理硕士，十多年互联网、大型IT组织从业经验，专注于大型组织数字化、敏捷与精益转型、创新产品孵化等方向，主要服务于通信、银行、互联网等行业的头部客户，并致力于以科学的方法和严谨的态度帮助客户达成组织数字化变革的实践成效。",
-      "producer-topic": "如何运用DDD构建数字化平台",
-      "topic-information":
-        "从业务出发，从办公环境和协同平台入手，介绍如何运用DDD构建数字化协作设计平台，讲述这样的方式可以给组织的数字化变革带来什么样的变化。"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的协作设计",
-      "topic-information":
-        "领域驱动设计的概念和相关实践被社区广泛采纳之后，尤其是事件风暴工作坊的流行，再一次证明了协作设计在软件开发过程中的巨大作用。在本分论坛中，我们希望从不同视角审视协作设计的过程，这种协作设计可能是架构设计，也可能是产品设计、交互设计、代码设计"
-    }
-  ],
-
-  [
-    {
-      "producer-img": "../resource/speakers/wanxuefan.png",
-      "producer-name": "万学凡",
-      "producer-introduction": "ThoughtWorks华东区交付总监",
-      "producer-information":
-        "首席咨询师、资深管理顾问。TGO鲲鹏会武汉分会会长。学凡曾先后为多家知名企业的产品研发机构及IT组织提供咨询服务。在数字化转型，打造敏捷组织，敏捷项目管理和构建数字化人才体系上都有深刻的理解。学凡的个人微信公众号为「其识」。",
-      "producer-topic": "如何运用DDD构建数字化平台",
-      "topic-information":
-        "从业务出发，从办公环境和协同平台入手，介绍如何运用DDD构建数字化协作设计平台，讲述这样的方式可以给组织的数字化变革带来什么样的变化。"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的协作设计",
-      "topic-information":
-        "领域驱动设计的概念和相关实践被社区广泛采纳之后，尤其是事件风暴工作坊的流行，再一次证明了协作设计在软件开发过程中的巨大作用。在本分论坛中，我们希望从不同视角审视协作设计的过程，这种协作设计可能是架构设计，也可能是产品设计、交互设计、代码设计"
-    }
-  ],
-
-  // update
-  [
-    {
-      "producer-img": "../resource/speakers/zhangxiaolong.png",
+      "producer-img": "../resource/speakers/2021/7-张晓龙.jpg",
       "producer-name": "张晓龙",
-      "producer-introduction": "中兴通讯 资深软件架构师",
+      "producer-introduction": "中兴通讯十佳敏捷教练，资深软件架构师，gomonkey作者",
       "producer-information":
-        "资深软件架构师，敏捷技术教练，DDD实践布道师，GitChat认证作者，go语言gomonkey和trans-dsl作者，具有十多年软件架构和开发经验。近年来专注于PaaS和5G等大型项目的设计和开发，尤其精通微服务契约测试。爱读书，爱运动，爱编程，爱分享，对于大型软件的重构具有丰富的实战经验。曾指导多个团队积极实践 DDD，包括开发领域和测试领域，取得了比较好的效果。个人简书主页：https://www.jianshu.com/u/1381dc29fed9 ，个人 GitHub 主页：https://github.com/agiledragon，已发布多场高质量Chat。",
-      "producer-topic": "当 DDD 遇上 DSL",
-      "topic-information":
-        "DDD是一种主流的软件开发方法，而DSL是一种针对某一特定领域且具有受限表达性的计算机程序设计语言。当DDD遇上DSL，会碰撞出什么样的火花呢？我们将结合三个典型案例一起探讨共同成长，不仅可以提升开发人员的生产力，还可以增进开发人员与领域专家的沟通。不管是命令/查询式API，还是内部或外部DSL，都是对领域模型的一种组装方式，用来满足不同场景的用户诉求。在实时性和并发性要求比较高的系统中，事务模型可以极大的简化业务实例的状态机，同时使用事务DSL定义的事务层又演进了DDD分层架构。"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的统一语言",
-      "topic-information":
-        "统一语言是领域驱动设计的核心概念。Eric Evans提出在战术层面实现领域驱动设计的前提，是在一个限界上下文之内构建领域统一语言。在不同的组织中，统一语言的含义和构建过程都不尽相同。在本分论坛中，我们将聚焦统一语言在不同上下文中的确切含义和价值，剖析统一语言的实现模式"
-    }
-  ],
-  [
-    {
-      "producer-img": "../resource/speakers/zhangguozhao.png",
-      "producer-name": "张国昭",
-      "producer-introduction": "MXItech 项目经理",
-      "producer-information":
-        "目前在MXITech服务,担任项目经理一职。数年前接触DDD之后就为之著迷,并且一直研究到现在。为此,于今年初与朋友(Kim)在台湾创办DDD TW社群,并营运至今。我们办过多场Meetup以及iDDD的读书会,我亦在其中分享和引导对DDD有兴趣的朋友们熟悉DDD。",
-      "producer-topic": "DDD开发实务-整合战略与战术",
-      "topic-information":
-        "DDD分为战略和战术两个环节,在过去的实践中,由于不能理解战略所带来的好处而将DDD强行变成了DDDLite;意味著,团队仅专注在将DDD的战术方面套用到项目或产品上,最终团队耗费大量的资源在非关键功能上,进而在项目和产品开发的尾声,强行军996等惨况。\n在学习完事件风暴,以及影响力地图所带给我的启发,重新理解和认识DDD战略环节,让我懂得怎么妥善安排资源,让团队变得真正的敏捷之外,还具有项目和产品的全局观。但是如何将DDD战略及战术整合成了我另一个头痛的点,为此,我与社群夥伴们一起研发了聚合画布,藉这个工具让DDD战略无痛跨入DDD战术的代码实现,本次将会分享我对于DDD战略及战术还有聚合画布的研究和实践,以及我学习过程中所遇到的所有痛点。"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的统一语言",
-      "topic-information":
-        "统一语言是领域驱动设计的核心概念。Eric Evans提出在战术层面实现领域驱动设计的前提，是在一个限界上下文之内构建领域统一语言。在不同的组织中，统一语言的含义和构建过程都不尽相同。在本分论坛中，我们将聚焦统一语言在不同上下文中的确切含义和价值，剖析统一语言的实现模式"
-    }
-  ],
-  [
-    {
-      "producer-img": "../resource/speakers/yanhua.png",
-      "producer-name": "阎华",
-      "producer-introduction": "京东7FRESH 系统架构负责人",
-      "producer-information":
-        "阎华，京东 7FRESH系统架构负责人，京东零售子集团技术专家委员会成员，拥有超过15年的软件开发和设计经验，一直致力于探索系统复杂性应对之道。最近两年负责了生鲜电商平台7FRESH的应用系统的整体架构设计工作，对微服务和DDD等架构风格进行了深入而有益的尝试。",
-      "producer-topic": "中台架构的功能解耦—从值对象到上下文",
-      "topic-information":
-        "京东7FRESH的全渠道零售系统为了能够灵活支持多种业态，从一开始就使用了DDD来指导设计通用的领域模型层，在这个过程中，我们发现最终影响系统复用的不是技术上的耦合，而是功能上的耦合，这其中包括建模时对值对象的忽视这种小问题，也包括上下文映射错误这种大问题，本次分享希望通过实例分析，剖析这些经验教训背后的深层次原因，从而加深大家对DDD各种概念的理解。"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的统一语言",
-      "topic-information":
-        "统一语言是领域驱动设计的核心概念。Eric Evans提出在战术层面实现领域驱动设计的前提，是在一个限界上下文之内构建领域统一语言。在不同的组织中，统一语言的含义和构建过程都不尽相同。在本分论坛中，我们将聚焦统一语言在不同上下文中的确切含义和价值，剖析统一语言的实现模式"
-    }
-  ],
-  [
-    {
-      "producer-img": "../resource/speakers/zhurumeng.png",
-      "producer-name": "朱如梦",
-      "producer-introduction": "某高科技制造业企业 业务架构师",
-      "producer-information":
-        "2005年硕士研究生毕业后加入某高科技制造业企业，从事流程管理和变革等方面的工作，积累了丰富的项目经验和领域知识。2015年至今，主要从事业务架构方法研究和企业级业务架构实践。目前是BA GUILD认证的业务架构师（Certified Business Architect），并在BA GUILD制造业参考模型开发小组中担任成员和主要贡献者。",
-      "producer-topic": "业务架构——跨领域的统一语言",
-      "topic-information":
-        "DDD方法强调构建领域内的统一语言，但企业很可能会同时在多个领域开展多个变革项目。如果每个领域都分别构建自己的统一语言，那么多个项目之间如何协调？引入业务架构，有助于在企业战略和解决方案直接建立联系，从企业层面规划变革项目和解决方案，避免重复建设。"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的统一语言",
-      "topic-information":
-        "统一语言是领域驱动设计的核心概念。Eric Evans提出在战术层面实现领域驱动设计的前提，是在一个限界上下文之内构建领域统一语言。在不同的组织中，统一语言的含义和构建过程都不尽相同。在本分论坛中，我们将聚焦统一语言在不同上下文中的确切含义和价值，剖析统一语言的实现模式"
-    }
-  ],
-  [
-    {
-      "producer-img": "../resource/speakers/tengyun.png",
-      "producer-name": "滕云",
-      "producer-introduction": "ThoughtWorks 高级咨询师",
-      "producer-information":
-        "长期从事一线编码与技术指导工作，曾经多次参与能源、金融、保险等大型软件系统的研发与重构。从2013年以来，一直致力于DDD在软件项目中的落地实践与推广培训，当前正参与某会员系统的DDD引入和微服务改造工作。曾多次在行业会议上担任讲师分享DDD相关内容，译有《实现领域驱动设计》和《人件》等书。",
-      "producer-topic": "事件驱动架构落地",
-      "topic-information":
-        "领域事件是DDD中一个重要的概念，在微服务蔚然成风的当下，事件驱动架构(EDA)已经成为解耦微服务的利器，围绕着领域事件的事件溯源(Event Sourcing)与CQRS也开始被行业所采纳。在本次分享中，我将讲到在微服务场景下使用领域事件的诸多方面，包括在微服务中使用领域事件的基本逻辑，领域事件的设计与组成，发送和消费领域事件的不同方式以及各自的优缺点。本次分享会以我本人工作过的实际项目为例，着重讲解由于采用了领域事件而导致的分布式系统的数据一致性问题。"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的架构演进",
-      "topic-information":
-        "过去的5年中，领域驱动设计在架构设计过程中的重要作用逐渐被业界主流所接受。无论是微服务架构、演进式架构、还是企业IT架构设计、企业中台设计，我们都可能看到领域驱动设计在各个架构设计层面发挥着自己的价值。我们希望通过本论坛的研讨，为听众呈现一场架构设计的盛宴，让大家能全方位的理解领域驱动设计的价值和威力"
-    }
-  ],
-  [
-    {
-      "producer-img": "../resource/speakers/zhangjuanchen.png",
-      "producer-name": "张镌宸",
-      "producer-introduction": "ThoughtWorks 高级咨询师",
-      "producer-information":
-        "ThoughtWorks车企数字化解决方案架构师，帮助知名车企完成经销商系统服务化改造与数字化零售平台的设计，拥有丰富的车企零售数字化产品设计与解决方案设计的经验。",
-      "producer-topic": "汽车零售数字化平台的落地与演进",
-      "topic-information":
-        "面对日益升级的消费者需求，面对不断变化的市场趋势，面对持续加入的新势力竞争对手，车企如何做到快速响应变化，完成零售与售后服务的数字化转型？平台化的思维是解决问题的关键。如何结合汽车零售的业务特点，从核心业务切入，逐渐将汽车零售数字化平台落地并持续治理与演进，是本方案的核心内容。"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的架构演进",
-      "topic-information":
-        "过去的5年中，领域驱动设计在架构设计过程中的重要作用逐渐被业界主流所接受。无论是微服务架构、演进式架构、还是企业IT架构设计、企业中台设计，我们都可能看到领域驱动设计在各个架构设计层面发挥着自己的价值。我们希望通过本论坛的研讨，为听众呈现一场架构设计的盛宴，让大家能全方位的理解领域驱动设计的价值和威力"
-    }
-  ],
-  [
-    {
-      "producer-img": "../resource/speakers/zhaoqian.png",
-      "producer-name": "赵谦",
-      "producer-introduction": "北京百拓开源科技有限公司 业务总监",
-      "producer-information":
-        "20年的中国企业信息化经验，多年的erp咨询顾问，2012年转向新技术体系的信息信息化交付邻域，曾交付国内第一个基于sap hana的烟草销售领域的管控平台项目，后转向基于开源组件的业务中台领域，带领团队开发了互联网架构的paas平台，也提出了基于领域驱动的企业中台交付的实施方法论，并在多个头部企业进行项目落地。",
-      "producer-topic": "基于领域设计的企业中台实施方法论",
-      "topic-information":
-        "告知企业管理曾为什么要上中台，适合才能建立适应未来快速、且不确定的业务支撑系统。打造可复用的组件，是提升企业效率，降低创业难度的最佳能力。基于领域设计的中台实施方法论，将中台的概念转化为可执行的企业架构与能力复用平台。"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的统一语言",
-      "topic-information":
-        "统一语言是领域驱动设计的核心概念。Eric Evans提出在战术层面实现领域驱动设计的前提，是在一个限界上下文之内构建领域统一语言。在不同的组织中，统一语言的含义和构建过程都不尽相同。在本分论坛中，我们将聚焦统一语言在不同上下文中的确切含义和价值，剖析统一语言的实现模式"
-    }
-  ],
-  [
-    {
-      "producer-img": "../resource/speakers/libin.png",
-      "producer-name": "李斌",
-      "producer-introduction": "中原银行 信息技术部架构师",
-      "producer-information":
-        "先后在包商银行，成都农商银行从事核心系统，支付系统，以及综合前置等系统的开发工作，拥有10年以上的银行系统开发经验，目前就职于中原银行架构管理组",
-      "producer-topic": "中原银行对公渠道中台建设实践分享",
-      "topic-information":
-        "介绍中原银行使用ddd方法论进行对公渠道中台建设方面的经验，以及在建设过程中对ddd中的统一语言，测试驱动开发，clean code等方面的理解。"
+        "就职于中兴通讯，资深软件架构师，2020年公司十佳敏捷教练，gomonkey 作者，具有十多年软件架构和开发经验。近年来专注于 PaaS 和 5G 等大型平台软件的设计与开发，尤其对于 DDD 和微服务有着浓厚的兴趣。爱读书，爱写作，爱运动，爱编程，爱分享，对于大型软件的重构具有丰富的实战经验。曾作为演讲嘉宾多次参与 ArchSummit、CppSummit 、TiD 和 DDDChina 等大型技术峰会，广受好评。",
     },
     {
       noTopic: true,
       "producer-information": "...",
-      "producer-topic": "Lighting Talk",
-      "topic-information": ""
+      "producer-topic": "...",
+      "topic-information": "..."
     }
   ],
-  [
-    {
-      "producer-img": "../resource/speakers/meixuesong.png",
-      "producer-name": "梅雪松",
-      "producer-introduction": "ThoughtWorks 高级咨询师",
-      "producer-information":
-        "先后服务于金融、零售、能源、通信等行业，曾设计和开发了多个大型企业级应用，并帮助多家客户完成大型遗留系统的重构和架构演进。目前专注于领域驱动设计、遗留系统重构、演进式架构、敏捷转型等领域。",
-      "producer-topic": "论聚合持久化",
-      "topic-information":
-        "在DDD实践中，聚合应该作为一个整体进行读取和持久化，以确保业务规则不被破坏。然而现有的持久化技术(如ORM框架、Spring Data等)直接实现聚合持久化，特别是关系型数据库的持久化时，总是面临不少挑战。在本次分享中，我将以实际项目为例，探讨如何实现一种优雅的方案来解决这个问题。"
-    },
-    {
-      noTopic: true,
-      "producer-information": "...",
-      "producer-topic": "Lighting Talk",
-      "topic-information": ""
-    }
-  ],
-  [
-    {
-      "producer-img": "../resource/speakers/zhangsuo.png",
-      "producer-name": "张硕",
-      "producer-introduction": "DaDa英语 技术研发中心负责人",
-      "producer-information":
-        "DaDa英语技术研发中心负责人，CEO助理。曾任人人网技术经理、ThoughtWorks高级咨询师。作为咨询顾问服务于国内多家重量级企业，涉及领域包括金融、电信、互联网、教育等，帮助客户提升技术管理能力以及响应力。",
-      "producer-topic": "领域驱动的组织能力建设",
-      "topic-information":
-        "传统企业的管理，在组织治理上以职能化为导向，会造成沟通不畅、过程高于结果等组织管理问题。以问题域为导向，对业务领域进行拆分，在康威定律的作用下对技术研发团队进行有效治理，是解决问题的一条新思路。"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的协作设计",
-      "topic-information":
-        "领域驱动设计的概念和相关实践被社区广泛采纳之后，尤其是事件风暴工作坊的流行，再一次证明了协作设计在软件开发过程中的巨大作用。在本分论坛中，我们希望从不同视角审视协作设计的过程，这种协作设计可能是架构设计，也可能是产品设计、交互设计、代码设计"
-    }
-  ],
-  [
-    {
-      "producer-img": "../resource/speakers/qianbingqin1.png",
-      "producer-name": "钱冰沁",
-      "producer-introduction": "ThoughtWorks 高级体验设计师",
-      "producer-information":
-        "ThoughtWorks 资深用户体验设计师与咨询师，IxDC讲师，译有《3D用户设计：设计与评估》一书，设计背景与相关⼯作经验横跨产品、服务与用户调研领域，专注于透过系统思维去分析产品与服务系统所建构出的脉络，挖掘用户洞察，并透过整合用户体验、商业和技术三个维度的设计流程，找寻到机会点。 精通服务设计与设计思考方法，也拥有多个行业经验，所经历项目涵盖金融、旅游、电信、零售等行业。也曾经游历世界50多个国家，对不同文化设计有着特殊的见解。",
-      "producer-topic": "协同设计中的新语言",
-      "topic-information":
-        "随着互联网的快速发展并且变得越来越复杂，将设计看作成静态页面集合的角度早已变得站不住脚了，很多的设计师已经开始以一种更系统化的方式来思考如何设计，Design System（设计系统）也由此诞生。 然而，一个良好的设计系统在不仅仅能为用户带来流畅的体验时，更重要的，是还可以使整个内部团队更加紧密地协同工作。当设计师与研发团队拥有了统一的新语言，感性与理性的思维也被完美结合，一种全新的工作方式正在 Coming Soon~"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的协作设计",
-      "topic-information":
-        "领域驱动设计的概念和相关实践被社区广泛采纳之后，尤其是事件风暴工作坊的流行，再一次证明了协作设计在软件开发过程中的巨大作用。在本分论坛中，我们希望从不同视角审视协作设计的过程，这种协作设计可能是架构设计，也可能是产品设计、交互设计、代码设计"
-    }
-  ],
-  [
-    {
-      "producer-img": "../resource/speakers/wangzhicheng.png",
-      "producer-name": "汪志成",
-      "producer-introduction": "ThoughtWorks 首席咨询师",
-      "producer-information":
-        "现任ThoughtWorks 的高级研发工程师。至今从事软件开发工作二十年，担任过包括测试、研发、项目经理、产品经理、技术总监在内的多种职位。",
-      "producer-topic": "协同设计中的新语言",
-      "topic-information":
-        "随着互联网的快速发展并且变得越来越复杂，将设计看作成静态页面集合的角度早已变得站不住脚了，很多的设计师已经开始以一种更系统化的方式来思考如何设计，Design System（设计系统）也由此诞生。 然而，一个良好的设计系统在不仅仅能为用户带来流畅的体验时，更重要的，是还可以使整个内部团队更加紧密地协同工作。当设计师与研发团队拥有了统一的新语言，感性与理性的思维也被完美结合，一种全新的工作方式正在 Coming Soon~"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的协作设计",
-      "topic-information":
-        "领域驱动设计的概念和相关实践被社区广泛采纳之后，尤其是事件风暴工作坊的流行，再一次证明了协作设计在软件开发过程中的巨大作用。在本分论坛中，我们希望从不同视角审视协作设计的过程，这种协作设计可能是架构设计，也可能是产品设计、交互设计、代码设计"
-    }
-  ],
-  [
-    {
-      "producer-img": "../resource/speakers/zhuao1.png",
-      "producer-name": "朱傲",
-      "producer-introduction": "戴姆勒大中华区 高级架构师",
-      "producer-information":
-        "专注于在企业内推动技术对业务的赋能，实现技术价值最大化。曾就职于ThoughtWorks，期间帮助多个企业完成其服务平台的设计及规划。行业覆盖汽车，零售，电信，云平台等领域。",
-      "producer-topic": "演进式企业架构",
-      "topic-information":
-        "曾经拿着系统全景图指点江山的企业架构师已然已经不再满足企业对他们的期待了。为了落地DevOps，他们需要进团队书写infrastructure as code; 为了落地微服务，他们需要拉着团队一起troubleshoot调用链。为了能够引进新技术，他们不仅需要专研AI，区块链，还需要专研ReactJS, Kotlin. 而这一切意味着企业对EA诉求的转变，为应对这样的变化，我们将可演进性引入EA，把EA从关注IT资产管理转为保持IT资产的活力。在实施两年后，这样的转变也让我们看到了企业活力的增长。"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的架构演进",
-      "topic-information":
-        "过去的5年中，领域驱动设计在架构设计过程中的重要作用逐渐被业界主流所接受。无论是微服务架构、演进式架构、还是企业IT架构设计、企业中台设计，我们都可能看到领域驱动设计在各个架构设计层面发挥着自己的价值。我们希望通过本论坛的研讨，为听众呈现一场架构设计的盛宴，让大家能全方位的理解领域驱动设计的价值和威力"
-    }
-  ],
-  [
-    {
-      "producer-img": "../resource/speakers/wuxuefeng2.png",
-      "producer-name": "吴雪峰",
-      "producer-introduction": "ThoughtWorks 资深架构师",
-      "producer-information":
-        "现任ThoughtWorks资深咨询师和架构师，主要负责敏捷软件开发与软件架构设计。他具有15年软件架构设计经验，从事于ERP系统、电子商务、医疗、和金融行业的软件开发、架构设计及敏捷实践。擅长Java/Scala技术，函数式编程、Reactive分布式软件架构以及精益实践。",
 
-      "producer-topic": "大规模遗留系统架构改造保险行业案例实践",
-      "topic-information":
-        "大型寿险核心系统现有500万+行Java+JSP代码，150万+行PLSQL。大概活跃2000+张表，主要业务表平均有200+个字段。现在几乎没人懂整个系统，非常难维护和扩展新需求。业务要求快速对接微信、支付宝等互联网平台，同时要发展新的保险商业模式。IT部门如何应对既能保持系统稳定运行，又能支持未来的发展需要?"
-    },
-    {
-      "producer-information": "...",
-      "producer-topic": "领域驱动的架构演进",
-      "topic-information":
-        "过去的5年中，领域驱动设计在架构设计过程中的重要作用逐渐被业界主流所接受。无论是微服务架构、演进式架构、还是企业IT架构设计、企业中台设计，我们都可能看到领域驱动设计在各个架构设计层面发挥着自己的价值。我们希望通过本论坛的研讨，为听众呈现一场架构设计的盛宴，让大家能全方位的理解领域驱动设计的价值和威力"
-    }
-  ],
   [
     {
-      "producer-img": "../resource/speakers/pengshixin.png",
-      "producer-name": "彭世新",
-      "producer-introduction": "人保寿险信息科技部高级经理",
+      "producer-img": "../resource/speakers/2021/8-付晓岩.jpg",
+      "producer-name": "付晓岩",
+      "producer-introduction": "阿里云新金融事业部资深行业解决方案总监，《聚合架构：面向数字生态的构件化企业架构》作者",
       "producer-information":
-        "10+年大型寿险企业IT核心系统建设经验，曾负责人保寿险公司IT战略规划的制定和执行工作。",
-      "producer-topic": "大规模遗留系统架构改造保险行业案例实践",
+        "资深企业级业务架构师，《企业级业务架构设计：方法论与实践》、《银行数字化转型》和《聚合架构：面向数字生态的构件化企业架构》三书作者，大型银行企业级转型工程亲历者。",
+      "producer-topic": "聚合架构：面向数字生态的构件化企业架构",
       "topic-information":
-        "大型寿险核心系统现有500万+行Java+JSP代码，150万+行PLSQL。大概活跃2000+张表，主要业务表平均有200+个字段。现在几乎没人懂整个系统，非常难维护和扩展新需求。业务要求快速对接微信、支付宝等互联网平台，同时要发展新的保险商业模式。IT部门如何应对既能保持系统稳定运行，又能支持未来的发展需要?"
+        "完整介绍以业务架构为核心推动企业架构方法论进行变革的方法，在数字化转型浪潮中，如何推动业务和技术的融合，如何推动软件生产模式向大规模生产的方式转进是关键，如何为此进行传统方法改进和国产方法论的探索，本次分享希望能够给大家带来这些方面的启发。"
     },
     {
+      noTopic: true,
       "producer-information": "...",
-      "producer-topic": "领域驱动的架构演进",
-      "topic-information":
-        "过去的5年中，领域驱动设计在架构设计过程中的重要作用逐渐被业界主流所接受。无论是微服务架构、演进式架构、还是企业IT架构设计、企业中台设计，我们都可能看到领域驱动设计在各个架构设计层面发挥着自己的价值。我们希望通过本论坛的研讨，为听众呈现一场架构设计的盛宴，让大家能全方位的理解领域驱动设计的价值和威力"
+      "producer-topic": "...",
+      "topic-information": "..."
     }
   ],
-  //
+
   [
     {
-      "producer-img": "../resource/speakers/liyue1.png",
-      "producer-name": "李悦",
-      "producer-introduction": "携程国际设计经理",
+      "producer-img": "../resource/speakers/2021/9-陶文.jpg",
+      "producer-name": "陶文",
+      "producer-introduction": "乘法CTO",
       "producer-information":
-        "曾任职于51job.com，为企业用户提供招聘平台设计解决方案。目前服务于 Trip.com 机票业务线，致力于全链路设计体验工作，从0到1打造全新的国际化OTA品牌。",
-      "producer-topic": "设计中台—技术化快速推动设计一致性",
+        "在 Thoughtworks 做过敏捷咨询，在腾讯做过发布和监控平台，在硅谷创业公司做过社交分佣系统，自己创过业，在滴滴做过出行中台的首席架构师。在15年的从业经历里尝试过不同领域不同大小规模的项目。基于在滴滴做中台的思考和反思，目前在实践新的业务拆分方法，做一个私域电商系统。",
+      "producer-topic": "代码防腐",
       "topic-information":
-        "在复杂场景下，如何搭建设计中台，迅速支撑多业务线C端产品。最小化“开发和设计成本”，保证“设计质量”，统一“设计语言”，提升“品牌认知及用户体验”"
+        `但是要保持代码是“好”的状况很难。代码腐化似乎注定的
+        * 最初：没有谁是不想好好写的。都有一个宏伟的规划，这次一定
+        * 途中：Code Review 如同“堂吉诃德”一般，根本架不住大批量大批量的修改
+        * 放弃：躺平了，下次一定
+        如此循环往复。然而腐化了之后，是无法起死回生的。
+        * 食品防腐是 low tech 的事情，但是中毒身亡之后起死回生是天顶星技术
+        * 新冠疫苗已经被人类掌握，但是免疫风暴造成的多脏器衰竭仍然是天顶星技术
+        虽然很多人醉心于遗留代码改造之道。笔者也从事铲屎业务很多年，仍未掌握此项技术。 还是让代码一直保持在未腐化的状态更简单一些。那么代码如何防腐呢？不靠 Code Review 又靠什么呢？`
     },
     {
+      noTopic: true,
       "producer-information": "...",
-      "producer-topic": "领域驱动的协作设计",
-      "topic-information":
-        "领域驱动设计的概念和相关实践被社区广泛采纳之后，尤其是事件风暴工作坊的流行，再一次证明了协作设计在软件开发过程中的巨大作用。在本分论坛中，我们希望从不同视角审视协作设计的过程，这种协作设计可能是架构设计，也可能是产品设计、交互设计、代码设计"
+      "producer-topic": "...",
+      "topic-information": "..."
     }
   ],
+
   [
     {
-      "producer-img": "../resource/speakers/yinjuan1.png",
-      "producer-name": "印隽",
-      "producer-introduction": "GLODON广联达用户体验设计中心总监",
+      "producer-img": "../resource/speakers/2021/10-钟敬.jpg",
+      "producer-name": "钟敬",
+      "producer-introduction": "Thoughtworks总监级咨询师，数字化转型与运营团队DDD负责人、资深架构师",
       "producer-information":
-        "中国传媒大学客座硕导，擅长复杂系统及产品的逻辑构建和体验设计，先后就职于CBSi、PPTV、分众传媒等企业，跨界经历丰富。",
-      "producer-topic": "设计跨界协同 赋能产业创新",
+        "思特沃克总监级咨询师，数字化转型与运营团队DDD负责人、资深架构师。25年IT从业经验。从事咨询工作后，为多家企业提供了咨询和辅导。擅长面向对象软件开发方法学，领域驱动设计，软件架构设计，敏捷及精益开发方法。拥有CSM，TOGAF，PMP等认证。已出版译著《分析模式》，参与审校了《领域特定语言》。",
+      "producer-topic": "我们用DDD在实践中解决了哪些问题",
       "topic-information":
-        "产业互联网的迅速崛起，万物互联、万物智能，在新的领域和机遇下，设计的跨界协作和整合共创才能带来更多创新的机会。"
+        "通过实际案例，介绍DDD所解决的典型问题。包括如何满足复杂多变的需求、如何处理架构问题、如何重构遗留系统以及如何完善研发体系等内容。以便听众了解DDD的真实应用场景。"
     },
     {
+      noTopic: true,
       "producer-information": "...",
-      "producer-topic": "领域驱动的协作设计",
-      "topic-information":
-        "领域驱动设计的概念和相关实践被社区广泛采纳之后，尤其是事件风暴工作坊的流行，再一次证明了协作设计在软件开发过程中的巨大作用。在本分论坛中，我们希望从不同视角审视协作设计的过程，这种协作设计可能是架构设计，也可能是产品设计、交互设计、代码设计"
+      "producer-topic": "...",
+      "topic-information": "..."
     }
-  ]
+  ],
+
+  [
+    {
+      "producer-img": "../resource/speakers/2021/11-丁辉.jpg",
+      "producer-name": "丁辉",
+      "producer-introduction": "中兴通讯 敏捷教练组组长，10年软件开发的软件架构专家",
+      "producer-information":
+        "资深咨询师，在互联网、嵌入式系统、电信领域有着多年的从业经验，是一名拥有超过10年软件开发的软件架构专家和具备管理经验的资深技术专家和敏捷教练。在加入中兴通讯之前，曾经服务于东大金智，掌中万维，中华网等公司，担任过项目经理，系统工程师，开发经理/科长，资深系统工程师和软件架构师等职务。 在敏捷研发技术圈长期耕耘和实践，通过中兴通讯无线院管理教练和技术教练认证，并通过中兴通讯公司级敏捷教练认证。同时作为CAC中国敏捷教练联盟核心发起人之一，参与CAC认知体系建设和试点，带领中兴通讯无线院通过首批CAC认证并成为联盟首批认证会员。",
+      "producer-topic": "乘风破甲，从DDD缥缈概念到落地的终南之舟",
+      "topic-information":
+        "DDD是目前主流的架构设计方法，但是设计一个优秀的DDD实践是有较高门槛的，往往需要较高的经验和长期的实践。这也是DDD规模推广的最大障碍，究其根本是因为DDD内容涉及面较多（场景分析/系统架构/开发架构/运行架构/部署架构等），关键细节丰富，蕴含知识点广泛，这些造成了DDD学习和落地之间的鸿沟。为了跨域它，需要一套形式化的端到端模板来固化其中的知识和经验，使得DDD可以被新手快速掌握，并且高效优质用到实际项目开发中去，从而实现来DDD大面积准确的复制和传播。作者经过长期DDD实践，总结提炼这套DDD模板，希望能够帮助大家在DDD落地中获得助力。"
+    },
+    {
+      noTopic: true,
+      "producer-information": "...",
+      "producer-topic": "...",
+      "topic-information": "..."
+    }
+  ],
+
+  [
+    {
+      "producer-img": "../resource/speakers/2021/12-潘加宇.jpg",
+      "producer-name": "潘加宇",
+      "producer-introduction": "UMLChina创始人，UMLChina是“领域驱动设计”国内最早的引入者之一",
+      "producer-information":
+        `UMLChina创始人。在1999年还是一名程序员时，利用业余时间创建了UMLChina，潜心研究需求和设计技能。2002年开始对外提供UML需求和设计的技术指导和训练服务。到现在为止，已经上门为超过330家的组织提供服务，覆盖了国内各个领域的领袖企业。
+        UMLChina是“领域驱动设计”国内最早的引入者之一。2004年，UMLChina负责Eric Evans的《领域驱动设计》中译本的审稿工作。2007年开始向企业提供领域驱动设计的训练和咨询服务。`,
+      "producer-topic": "建模工具对领域驱动设计的支持",
+      "topic-information":
+        "目前的建模工具和表示法足以支撑绝大部分的领域驱动设计“新式话语”，并不需要另起炉灶。本演讲从功能、费用、平台等方面介绍当前建模工具的情况，以及典型的建模工具对领域驱动设计“新式话语”的支持。"
+    },
+    {
+      noTopic: true,
+      "producer-information": "...",
+      "producer-topic": "...",
+      "topic-information": "..."
+    }
+  ],
+
+  [
+    {
+      "producer-img": "../resource/speakers/2021/13-王立.jpg",
+      "producer-name": "王立",
+      "producer-introduction": "腾讯T12级专家工程师，领域驱动设计教练",
+      "producer-information":
+        "  腾讯T12级专家工程师，领域驱动设计教练，从业20年以上，曾就职于阿里巴巴、神州数码、网宿科技等上市企业，担任过阿里研究院讲师、架构师、CTO、敏捷教练等职位，长期致力于高质量软件设计方法研究，2006年起开始接触领域驱动设计，是国内最早一批领域驱动设计方面的实践者与探索者，多次受邀参与中国领域驱动设计峰会、ArchSummit全球架构师峰会、中国DevOpsDays大会等重要会议进行分享，是一位长期致力于领域驱动设计方面的研究者与布道者",
+      "producer-topic": "聚合划分从定性到定量",
+      "topic-information":
+        "聚合的划分对于大多数开发来说是“凭经验”，这种定性思维缺乏可靠性，业界需要一种更有效的定量方法来降低模糊与不确定性，本话题尝试提出一种定量模型来接近这一目标，它有助于提升聚合划分的简单性与可靠性，使之可以被广泛应用而不容易走样。"
+    },
+    {
+      noTopic: true,
+      "producer-information": "...",
+      "producer-topic": "...",
+      "topic-information": "..."
+    }
+  ],
+
 ];
