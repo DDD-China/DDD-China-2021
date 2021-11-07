@@ -63,6 +63,7 @@ var TRANSLATION_LOCATIONS = {
     LOOK_BACK_2017: "../en/look-back-2017.html",
     LOOK_BACK_2018: "../en/look-back-2018.html",
     LOOK_BACK_2019: "../en/look-back-2019.html",
+    LOOK_BACK_2020: "../en/look-back-2020.html",
     BOOKING_TICKETS: "../en/booking-tickets.html",
     ABOUT_THOUGHTWORKS: "../en/about-thoughtworks.html"
   },
@@ -75,6 +76,7 @@ var TRANSLATION_LOCATIONS = {
     LOOK_BACK_2017: "../zh/look-back-2017.html",
     LOOK_BACK_2018: "../zh/look-back-2018.html",
     LOOK_BACK_2019: "../zh/look-back-2019.html",
+    LOOK_BACK_2020: "../zh/look-back-2020.html",
     BOOKING_TICKETS: "../zh/booking-tickets.html",
     ABOUT_THOUGHTWORKS: "../zh/about-thoughtworks.html"
   }
