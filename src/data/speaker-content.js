@@ -84,7 +84,7 @@ var speakers = [
     {
       "producer-img": "../resource/speakers/2021/5-范钢.jpg",
       "producer-name": "范钢",
-      "producer-introduction": "《架构真意》《大话重构》作者，前航天信息首席架构师",
+      "producer-introduction": "《架构真意》《大话重构》作者，奈学教育DDD金牌讲师",
       "producer-information":
         "奈学教育DDD金牌讲师，畅销书籍《架构真意》与《大话重构》的作者，规模化敏捷SPC。先后参与了数十个国内大型软件项目，涉及国家财政、军工、税务、医疗等领域的大数据建设、风险防控与人工智能研究。从事架构设计、软件重构、微服务、大数据方面的培训与咨询多年，服务的客户包括中国银行、华为、中兴、贝尔、西门子，也是Top100、Tid、SDCC、DDD、DevOps等业界顶级技术峰会的技术分享者。",
       "producer-topic": "落地DDD的技术中台建设及其实践",
