@@ -564,7 +564,7 @@ var speakers = [
 
     [
         {
-            "producer-img": "../resource/speakers/2021/38-李永顺.png",
+            "producer-img": "../resource/speakers/2021/14-李永顺.jpg",
             "producer-name": "中兴通讯5G软件技术总工",
             "producer-introduction": "中兴通讯5G软件技术总工，资深架构师\n" +
                 "中兴通讯5G软件技术总工，公司级资深技术教练。拥有丰富系统架构设计及遗留系统架构改造经验，对大型嵌入式系统进行领域建模，组合式设计、性能优化有丰富的实战经验。",
@@ -843,7 +843,7 @@ var speakers = [
 
     [
         {
-            "producer-img": "../resource/speakers/2021/54-付施威.png",
+            "producer-img": "../resource/speakers/2021/16-付施威.jpg",
             "producer-name": "付施威",
             "producer-introduction": "Thoughtworks国内交付Tech Lead",
             "producer-information": "Thoughtworks 国内交付Tech Lead。有丰富的大型企业一线交付经验，擅长履约建模、DDD建模等架构方法。",
