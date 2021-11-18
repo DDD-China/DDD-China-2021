@@ -274,8 +274,8 @@ var speakers = [
 
     [
         {
-            "producer-img": "../resource/speakers/2021/21-高翊凱.png",
-            "producer-name": "高翊凱 Kim, Kao",
+            "producer-img": "../resource/speakers/2021/21-高翊凯.png",
+            "producer-name": "高翊凯 Kim, Kao",
             "producer-introduction": "AWS 资深解决方案架构师",
             "producer-information":
                 "AWS担任资深解决方案架构师，同时也是台湾领域驱动设计社群（DDD Taiwan Community）发起人之一。 专长于软件系统设计，并致力于投入无服务器服务推广，推动企业通过 DDD 与便捷的云服务，打造更适切的系统方案，解决真切的商务问题。",
