@@ -295,9 +295,9 @@ var speakers = [
             "producer-img": "../resource/speakers/2021/22-黄帅.png",
             "producer-name": "黄帅",
             "producer-introduction": "亚马逊云科技资深开发者布道师",
-            "producer-information": "",
-            "producer-topic": "",
-            "topic-information": ""
+            "producer-information": "在软件研发和咨询领域超过十年的架构设计、运营和团队管理经验，对云上架构优化、XOps实践、云原生可靠性治理和可观测性构造等有深入的研究和丰富的案例经验。近年来在混沌工程实战领域，受到海内外大会邀请，分享有关亚马逊云科技的经验和案例，引起共鸣。2019年推动新的亚马逊云科技混沌工程服务(Amazon FIS)立项与落地，该服务于2021年3月成功发布。",
+            "producer-topic": "韧性工程对云原生应用DDD探索的新思考",
+            "topic-information": "随着业务规模的迅速增长，如何在快速迭代的基础上又能保障可靠性，成为云原生应用稳定性的一个新难题。过去几十年以来，韧性工程已经为航空航天、道路交通、外科手术、电网配电、消防等复杂人机系统的稳定性带来扎实的理论依据和实践经验。如今软件系统在云原生时代的复杂度大幅度增加，DDD恰恰是管理业务复杂性的有效方法，我们将从存在已久的成熟的韧性工程理论实践出发，结合具体的案例，分享韧性工程在云原生应用结合DDD的新思考。"
         },
         {
             noTopic: true,
@@ -369,7 +369,7 @@ var speakers = [
     [
         {
             "producer-img": "../resource/speakers/2021/26-林益丞.png",
-            "producer-name": "",
+            "producer-name": "林益丞",
             "producer-introduction": "佳骏科技股份有限公司（EGK）",
             "producer-information": "5年Net软件工程师，3年软件构架经验，2年软件部门管理经验，2021 DDDTW Conference Volunteer，2020 DDDTW Conference第一次接触DDD，2021参加DDDTW读书会，进一步了解DDD的样貌，2021担任DDDTW年会议程组志工",
             "producer-topic": "",
@@ -771,23 +771,6 @@ var speakers = [
             "producer-information": "数据建模架构师，参与数据治理平台、数据模型驱动高代码平台搭建，实现企业级数据治理与数据管理服务。",
             "producer-topic": "DDD实践：建模工具支持与模型驱动代码落地",
             "topic-information": "领域驱动设计为我们提供了一个架构设计思想，以及统一共同的语言，然而DDD在落地应用中，却高度依赖各架构师的素质，难以有效的形成统一的框架，容易造成架构师与开发者的割裂。本次演讲将为大家介绍DDD落地中领域建模、数据建模、框架代码生成、分层架构看护等一系列的工具，助力DDD思想落地，真正的指导架构设计与实现一致。"
-        },
-        {
-            noTopic: true,
-            "producer-information": "...",
-            "producer-topic": "...",
-            "topic-information": "..."
-        }
-    ],
-
-    [
-        {
-            "producer-img": "../resource/speakers/2021/50-黄帅.png",
-            "producer-name": "黄帅",
-            "producer-introduction": "亚马逊云科技资深开发者布道师",
-            "producer-information": "在软件研发和咨询领域超过十年的架构设计、运营和团队管理经验，对云上架构优化、XOps实践、云原生可靠性治理和可观测性构造等有深入的研究和丰富的案例经验。近年来在混沌工程实战领域，受到海内外大会邀请，分享有关亚马逊云科技的经验和案例，引起共鸣。2019年推动新的亚马逊云科技混沌工程服务(Amazon FIS)立项与落地，该服务于2021年3月成功发布。",
-            "producer-topic": "韧性工程对云原生应用DDD探索的新思考",
-            "topic-information": "随着业务规模的迅速增长，如何在快速迭代的基础上又能保障可靠性，成为云原生应用稳定性的一个新难题。过去几十年以来，韧性工程已经为航空航天、道路交通、外科手术、电网配电、消防等复杂人机系统的稳定性带来扎实的理论依据和实践经验。如今软件系统在云原生时代的复杂度大幅度增加，DDD恰恰是管理业务复杂性的有效方法，我们将从存在已久的成熟的韧性工程理论实践出发，结合具体的案例，分享韧性工程在云原生应用结合DDD的新思考。"
         },
         {
             noTopic: true,
