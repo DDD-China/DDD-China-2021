@@ -900,4 +900,60 @@ var speakers = [
             "topic-information": "..."
         }
     ],
+
+    [
+        {
+            "producer-img": "../resource/speakers/2021/54-Neal-Ford.png",
+            "producer-name": "Neal Ford",
+            "producer-introduction": " Director, Software Architect, and Meme Wrangler at Thoughtworks",
+            "producer-information": "Neal is Director, Software Architect, and Meme Wrangler at Thoughtworks, a software company and a community of passionate, purpose-led individuals, who thinks disruptively to deliver technology to address the toughest challenges, all while seeking to revolutionize the IT industry and create positive social change. He is an internationally recognized expert on software development and delivery, especially in the intersection of agile engineering techniques and software architecture. Neal has authored magazine articles, eight books (and counting), dozens of video presentations, and spoken at hundreds of developers conferences worldwide. His topics include software architecture, continuous delivery, functional programming, cutting edge software innovations, and includes a business-focused book and video on improving technical presentations. Check out his web site at nealford.com.",
+            "producer-topic": "Software Architecture: The Hard Parts",
+            "topic-information": "Neal is Director, Software Architect, and Meme Wrangler at Thoughtworks, a software company and a community of passionate, purpose-led individuals, who thinks disruptively to deliver technology to address the toughest challenges, all while seeking to revolutionize the IT industry and create positive social change. He is an internationally recognized expert on software development and delivery, especially in the intersection of agile engineering techniques and software architecture. Neal has authored magazine articles, eight books (and counting), dozens of video presentations, and spoken at hundreds of developers conferences worldwide. His topics include software architecture, continuous delivery, functional programming, cutting edge software innovations, and includes a business-focused book and video on improving technical presentations. Check out his web site at nealford.com."
+        },
+        {
+            noTopic: true,
+            "producer-information": "...",
+            "producer-topic": "...",
+            "topic-information": "..."
+        }
+    ],
+
+    [
+        {
+            "producer-img": "../resource/speakers/2021/55-Simon-Wardley.png",
+            "producer-name": "Simon Wardley",
+            "producer-introduction": "Simon Wardley is a researcher, company advisor and former executive.",
+            "producer-information": "Simon Wardley is a researcher, company advisor and former executive.",
+            "producer-topic": "Crossing the river by feeling the stonesCrossing the river by feeling the stones",
+            "topic-information": `We live in a competitive world. That competition forces change. It has always forced change. Change is normal. The question is not whether our organisations will change, that’s a given, but can we see this change before it hits us, do we know where we’re heading or are we simply floating aimlessly being carried by a river? It certainly feels that way sometimes.
+
+            To answer the question we need to understand our landscape, the economic forces at play, the context we operate within and our situational awareness of this. Can we navigate the waters, can we see a storm coming or are we being battered by rocks because we refuse to look?
+           
+           During this talk we will examine the level of situational awareness within business, why it matters and whether we can anticipate and exploit change before it hits us. We will explore how we can manage our economic environment by, as Deng Xiaoping would say, “crossing the river by feeling the stones”.`
+        },
+        {
+            noTopic: true,
+            "producer-information": "...",
+            "producer-topic": "...",
+            "topic-information": "..."
+        }
+    ],
+
+    [
+        {
+            "producer-img": "../resource/speakers/2021/56-右军.png",
+            "producer-name": "右军",
+            "producer-introduction": "蚂蚁金服资深技术专家、IT老兵",
+            "producer-information": "架构是设计出来的，也是演进出来的。 如果不只是做业务发展下的倒逼式演进，渐进式演进和代际演进有何区别，架构演进考虑哪些因素？ 讲师根据自己的经验实践、并结合持续架构实践原则、演进式架构等业界观点，表达对于烟囱型架构、平台和业务中台的一些“看见”和思考。",
+            "producer-topic": "我之于架构演进的观点兼及中台",
+            "topic-information": "架构是设计出来的，也是演进出来的。 如果不只是做业务发展下的倒逼式演进，渐进式演进和代际演进有何区别，架构演进考虑哪些因素？ 讲师根据自己的经验实践、并结合持续架构实践原则、演进式架构等业界观点，表达对于烟囱型架构、平台和业务中台的一些“看见”和思考。"
+        },
+        {
+            noTopic: true,
+            "producer-information": "...",
+            "producer-topic": "...",
+            "topic-information": "..."
+        }
+    ],
+
 ];
