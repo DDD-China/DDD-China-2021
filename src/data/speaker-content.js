@@ -421,7 +421,7 @@ var speakers = [
 
     [
         {
-            "producer-img": "../resource/speakers/2021/43-王立.png",
+            "producer-img": "../resource/speakers/2021/57-王立.png",
             "producer-name": "王立",
             "producer-introduction": "腾讯领域驱动设计教练",
             "producer-information": "腾讯T12级专家工程师，领域驱动设计教练，从业20年以上，曾就职于阿里巴巴、神州数码、网宿科技等上市企业，担任过阿里研究院讲师、架构师、CTO、敏捷教练等职位，长期致力于高质量软件设计方法研究，2006年起开始接触领域驱动设计，是国内最早一批领域驱动设计方面的实践者与探索者，多次受邀参与中国领域驱动设计峰会、ArchSummit全球架构师峰会、中国DevOpsDays大会等重要会议进行分享，是一位长期致力于领域驱动设计方面的研究者与布道者",
