@@ -104,7 +104,18 @@ var speakers = [
             "producer-introduction": "腾讯工程效能教练，资深DevOps顾问",
             "producer-information":
                 "7年企业级教练经验，2年技术咨询经验。擅长组织级DevOps提升、敏捷转型、领域建模、极限编程、质量内建等。从2014年开始实践领域驱动设计，辅导过多个团队和产品落地领域驱动设计方法。",
-            noTopic: true,
+            "producer-topic": "《DDD诊所》",
+            "topic-information": "DDD诊所流程（公司内部的微型咨询活动）：\n" +
+            "准备：\n" +
+            "1.找医生（对DDD和架构有一定经验）\n" +
+            "2.医生要提前看下问题，准备一下方案\n" +
+            "3.发送邮件介绍这个案例和问题，以及DDD诊所的形式\n" +
+            "进行：\n" +
+            "1.主持人介绍一些流程、玩法（5min）\n" +
+            "2.案例介绍，痛点陈述（痛苦一点）\n" +
+            "3.会诊：医生通过问答和谈话，需要根因\n" +
+            "4.如果案例提供者对根因认同，医生给出方案\n" +
+            "5.总结案例，征集下一个案例"
         },
         {
             noTopic: true,
@@ -121,6 +132,7 @@ var speakers = [
             "producer-introduction": "中兴通讯十佳敏捷教练，资深软件架构师，gomonkey作者",
             "producer-information":
                 "就职于中兴通讯，资深软件架构师，2020年公司十佳敏捷教练，gomonkey 作者，具有十多年软件架构和开发经验。近年来专注于 PaaS 和 5G 等大型平台软件的设计与开发，尤其对于 DDD 和微服务有着浓厚的兴趣。爱读书，爱写作，爱运动，爱编程，爱分享，对于大型软件的重构具有丰富的实战经验。曾作为演讲嘉宾多次参与 ArchSummit、CppSummit 、TiD 和 DDDChina 等大型技术峰会，广受好评。",
+            noTopic: true,
         },
         {
             noTopic: true,
@@ -880,7 +892,7 @@ var speakers = [
             "producer-name": "付施威",
             "producer-introduction": "Thoughtworks国内交付Tech Lead",
             "producer-information": "Thoughtworks 国内交付Tech Lead。有丰富的大型企业一线交付经验，擅长履约建模、DDD建模等架构方法。",
-            "producer-topic": "",
+            "producer-topic": "《DDD诊所》",
             "topic-information": "DDD诊所流程（公司内部的微型咨询活动）：\n" +
                 "准备：\n" +
                 "1.找医生（对DDD和架构有一定经验）\n" +
@@ -947,6 +959,23 @@ var speakers = [
             "producer-information": "架构是设计出来的，也是演进出来的。 如果不只是做业务发展下的倒逼式演进，渐进式演进和代际演进有何区别，架构演进考虑哪些因素？ 讲师根据自己的经验实践、并结合持续架构实践原则、演进式架构等业界观点，表达对于烟囱型架构、平台和业务中台的一些“看见”和思考。",
             "producer-topic": "我之于架构演进的观点兼及中台",
             "topic-information": "架构是设计出来的，也是演进出来的。 如果不只是做业务发展下的倒逼式演进，渐进式演进和代际演进有何区别，架构演进考虑哪些因素？ 讲师根据自己的经验实践、并结合持续架构实践原则、演进式架构等业界观点，表达对于烟囱型架构、平台和业务中台的一些“看见”和思考。"
+        },
+        {
+            noTopic: true,
+            "producer-information": "...",
+            "producer-topic": "...",
+            "topic-information": "..."
+        }
+    ],
+
+    [
+        {
+            "producer-img": "../resource/speakers/2021/58-姚琪琳.png",
+            "producer-name": "姚琪琳",
+            "producer-introduction": "Thoughtworks中国区技术顾问",
+            "producer-information": "Thoughtworks中国区技术顾问，技术书籍译者。拥有超过十年的软件开发、设计和架构经验。近年来在企业遗留系统现代化、领域驱动设计、敏捷软件开发、整洁代码和重构等方面持续精进，并通过理论指导、实战演练等方式为企业研发团队赋能。参与翻译或审校多本技术书籍，包括《领域特定语言》、《.NET性能优化》、《深入理解C#》等。",
+            "producer-topic": "DDD大型结构战略设计在保险领域的实践",
+            "topic-information": "近年来DDD日渐火热，但“大型结构”往往少有人提及，除了Eric最早的《领域驱动设计》中做了介绍，其他后续书籍和文章均避而不谈。然而对于很多传统企业来说，从规模和复杂度上绝对够得上“大型结构”，如果绕开这个概念去落地DDD，必然会觉得痛苦不堪。本演讲将以保险行业为例，探讨DDD大型结构战略设计，希望对大家有所帮助。"
         },
         {
             noTopic: true,
